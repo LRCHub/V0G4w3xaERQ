@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Word is Bond",
+  "base_artist": "Brand Nubian",
+  "createdAt": "2026-03-18T17:50:20.655525Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Word Is Bond (feat. Slim 400)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/01_Word_Is_Bond_(feat._Slim_400)_YG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "Deez Nuts",
+      "has_synced": true,
+      "path": "select/02_Word_Is_Bond_Deez_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/03_Word_Is_Bond_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "Brand Nubian",
+      "has_synced": true,
+      "path": "select/04_Word_Is_Bond_Brand_Nubian.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/05_Word_Is_Bond_YG.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "YG feat. Slim 400",
+      "has_synced": true,
+      "path": "select/06_Word_Is_Bond_YG_feat._Slim_400.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "Danko Jones",
+      "has_synced": false,
+      "path": "select/07_Word_Is_Bond_Danko_Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Word Is Bond",
+      "artist": "Zhané",
+      "has_synced": true,
+      "path": "select/08_My_Word_Is_Bond_Zhané.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "House of Pain / Word Is Bond",
+      "artist": "House of Pain",
+      "has_synced": true,
+      "path": "select/09_House_of_Pain___Word_Is_Bond_House_of_Pain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Word Is Bond",
+      "artist": "Ice-T",
+      "has_synced": false,
+      "path": "select/10_My_Word_Is_Bond_Ice-T.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Word Is Bond",
+      "artist": "House of Pain",
+      "has_synced": true,
+      "path": "select/11_Word_Is_Bond_House_of_Pain.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Word Is Bond (album version)",
+      "artist": "House of Pain",
+      "has_synced": true,
+      "path": "select/12_Word_Is_Bond_(album_version)_House_of_Pain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Word Is Bond",
+      "artist": "Brand Nubian",
+      "has_synced": false,
+      "path": "select/pl_01_Word_Is_Bond_Brand_Nubian.txt"
+    }
+  ]
+}
